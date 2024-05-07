@@ -27,7 +27,7 @@ cd StudentDB
 chmod +x run_script.sh
 ```
 
-4. **Run the script file**
+3. **Run the script file**
 
 ```bash
 ./run_script.sh
